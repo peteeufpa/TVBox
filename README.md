@@ -1,2 +1,16 @@
 # TVBox
 Informações sobre os projetos do PET EE envolvendo as TV Boxs
+
+1° Passo - Baixar a imagem presente na pasta H6+ (https://ufpabr-my.sharepoint.com/:f:/r/personal/andre_carvalho_silva_itec_ufpa_br/Documents/Descaracteriza%C3%A7%C3%A3o%20da%20TV%20Box?csf=1&web=1&e=GPrZaO).
+
+2° Passo - Utilizar o Balena Etcher para passar a imagem para um cartão micro SD.
+
+3° Passo - Inserir o cartão micro SD na TV Box H6+. No entanto, para que a mesma inicialize lendo o cartão, é necessário pressionar o botão traseiro (Por cerca de 5s ou até aparecer a frase 'Bring Your Home', solte o botão logo em seguida) enquanto liga a TV Box.
+
+4° Passo - Efetuar as configurações iniciais do server (Só seguir o que é mostrado).
+
+5° Passo - Seguir o passo a passo do pdf 'Instalação do Ambian na TV Box H6+' para instalar a interface gráfica.
+
+6° Passo - Execurtar os comandos encontrados no arquivo 'Comandos TV Box.txt (Se necessário).
+
+7° Passo - Para gravar na memória tudo o que foi feito e não depender mais do cartão SD, execute o comando 'sudo armbian-install'.
