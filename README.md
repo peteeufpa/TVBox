@@ -10,7 +10,30 @@
 
 4° Passo - Efetuar as configurações iniciais do server (Só seguir o que é mostrado).
 
-5° Passo - Seguir o passo a passo do pdf 'Instalação do Ambian na TV Box H6+' para instalar a interface gráfica.
+5° Passo - Para instalar a interface gráfica e configurar o teclado, utilize os seguintes comandos:
+
+
+PARA CONFIGURAR O TECLADO
+
+          sudo armbian-config
+
+          Escolha a opção 'PERSONAL', em seguida 'KEYBOARD', procure pela opção 'Notebook ASUS' e selecione a linguagem 'Portuguẽs (Brasil).
+          (PARA AS PROXIMAS OPÇÕES QUE APARECERÃO, APENAS CONFIRME SEM MUDAR NADA!).
+           
+PARA A INTERFACE GRÁFICA
+           
+          sudo apt update
+          sudo apt ugrade
+          sudo apt install xorg
+            cd /etc/X11
+            sudo rm xorg.conf
+            sudo wget https://www.lnrd.dev/home/tvbox/h6v1/xorg.conf
+
+        INSTALANDO A INTERFACE E ADICIONAIS (Leitor de PDFs, Captura de tela etc..)
+          (INTERFACE)
+          sudo apt install task-xfce-desktop xfce4-statusnotifier-plugin network-manager-gnome 
+          (ADICIONAIS)
+          sudo apt install thunar-volman gvfs policykit-1 xfce4-screenshooter file-roller qpdfview ristretto ttf-mscorefonts-installer catfish thunar-archive-plugin
 
 6° Passo - Execurtar os comandos encontrados no arquivo 'Comandos TV Box.txt (Se necessário).
 
