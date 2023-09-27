@@ -12,7 +12,6 @@
 
 5° Passo - Para instalar a interface gráfica e configurar o teclado, utilize os seguintes comandos:
 
-
 PARA CONFIGURAR O TECLADO
 
           sudo armbian-config
@@ -38,3 +37,6 @@ PARA A INTERFACE GRÁFICA
 6° Passo - Execurtar os comandos encontrados no arquivo 'Comandos TV Box.txt (Se necessário).
 
 7° Passo - Para gravar na memória tudo o que foi feito e não depender mais do cartão SD, execute o comando 'sudo armbian-install'.
+
+          Arquivo u-boot a ser utilizado (arquivo meson-gxl-s905x-p212.dtb) – opção 106.
+          Sistema de arquivo a ser utilizado, sugere-se o ext4.
