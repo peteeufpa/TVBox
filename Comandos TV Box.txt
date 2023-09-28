@@ -30,3 +30,13 @@ cd arduino-1.8.16
 
 sudo ./install.sh
 
+#Para instalar o JClic
+
+sudo apt install default-jdk (Instala o Java)
+sudo apt-get install jclic
+
+
+
+
+
+
