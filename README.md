@@ -6,10 +6,22 @@
 
 2° Passo - Utilizar o Balena Etcher para passar a imagem para um cartão micro SD.
 
-3° Passo - Inserir o cartão micro SD na TV Box H6+. No entanto, para que a mesma inicialize lendo o cartão, é necessário pressionar o botão traseiro (Por cerca de 5s ou até aparecer a frase 'Bring You Home TV', solte o botão logo em seguida) enquanto liga a TV Box.
+3° Passo - Inserir o cartão micro SD na TV Box H6+. No entanto, para que a mesma inicialize lendo o cartão (APENAS QUANDO FOR LIGAR DA PRIMEIRA VEZ), é necessário pressionar o botão traseiro (Por cerca de 5s ou até aparecer a frase 'Bring You Home TV', solte o botão logo em seguida) enquanto liga a TV Box.
 
-4° Passo - Efetuar as configurações iniciais do server (Só seguir o que é mostrado).
+4° Passo - Efetuar as configurações iniciais do server.
+          
+          Crie a senha de root 'pet'.
+          Para a shell de comando do sistema padrão, escolha a opção 1 (bash).
+          Na criação de usuário, escolha como nome 'pet' e senha 'pet'.
+          Como nome verdadeiro, escolha 'pet' também (COM AS LETRAS MINÚSCULAS!).
 
+          'Conectar via wireless?' - Escolha 'sim' e conecte na internet local.
+          'Utilizar a linguagem baseado na sua localização?' - Escolha 'sim' caso a região detectada seja 'America/Belem' e aguarde carregar.
+
+          Você estará ainda na conta root, para sair dela, aperte Ctrl + D e faça o login com o usuário e a senha criada anteriormente.
+          
+          PRONTO! O server está configurado e pronto para uso!
+          
 5° Passo - Para instalar a interface gráfica e configurar o teclado, utilize os seguintes comandos:
 
 PARA CONFIGURAR O TECLADO
