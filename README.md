@@ -30,6 +30,7 @@ PARA CONFIGURAR O TECLADO
 
           Escolha a opção 'PERSONAL', em seguida 'KEYBOARD', procure pela opção 'Notebook ASUS' e selecione a linguagem 'Portuguẽs (Brasil).
           (PARA AS PROXIMAS OPÇÕES QUE APARECERÃO, APENAS CONFIRME SEM MUDAR NADA!).
+          Ao voltar para a tela 'Personal Settings', selecione a opção 'Back' e, em seguida, a opção 'Exit'.
            
 PARA A INTERFACE GRÁFICA
            
