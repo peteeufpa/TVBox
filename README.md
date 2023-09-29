@@ -33,10 +33,10 @@ PARA CONFIGURAR O TECLADO
           Ao voltar para a tela 'Personal Settings', selecione a opção 'Back' e, em seguida, a opção 'Exit'.
            
 PARA A INTERFACE GRÁFICA
-           
+
+          (SE APARECER UMA OPÇÃO TIPO 'DEJESA CONTINUAR [s/n]?', DIGITE 's' E DE ENTER)
           sudo apt update
           sudo apt ugrade
-          (SE APARECER UMA OPÇÃO TIPO 'DEJESA CONTINUAR [s/n]?', DIGITE 's' E DE ENTER).
           sudo apt install xorg
             cd /etc/X11
             sudo rm xorg.conf
