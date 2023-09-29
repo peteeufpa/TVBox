@@ -8,7 +8,7 @@
 
 3° Passo - Inserir o cartão micro SD na TV Box H6+. No entanto, para que a mesma inicialize lendo o cartão (APENAS QUANDO FOR LIGAR PELA PRIMEIRA VEZ), é necessário pressionar o botão traseiro (Por cerca de 5s ou até aparecer a frase 'Bring You Home TV', enquanto conecta o cabo de força e solte o botão em seguida) enquanto liga a TV Box.
 
-4° Passo - Efetuar as configurações iniciais do server.
+4° Passo - Efetuar as configurações iniciais do server:
           
           Crie a senha de root 'pet'.
           Para a shell de comando do sistema padrão, escolha a opção 1 (bash).
