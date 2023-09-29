@@ -46,7 +46,7 @@ PARA A INTERFACE GRÁFICA
           (ADICIONAIS)
           sudo apt install thunar-volman gvfs policykit-1 xfce4-screenshooter file-roller qpdfview ristretto ttf-mscorefonts-installer catfish thunar-archive-plugin
 
-6° Passo - Execurtar os comandos encontrados no arquivo 'Comandos TV Box.txt (Se necessário).
+6° Passo - Execurtar os comandos encontrados no arquivo 'Comandos TV Box.txt' (Se necessário).
 
 7° Passo - Para gravar na memória tudo o que foi feito e não depender mais do cartão SD, execute o comando 'sudo armbian-install'.
 
