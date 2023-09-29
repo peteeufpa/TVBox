@@ -6,7 +6,7 @@
 
 2° Passo - Utilizar o Balena Etcher para passar a imagem para um cartão micro SD.
 
-3° Passo - Inserir o cartão micro SD na TV Box H6+. No entanto, para que a mesma inicialize lendo o cartão (APENAS QUANDO FOR LIGAR DA PRIMEIRA VEZ), é necessário pressionar o botão traseiro (Por cerca de 5s ou até aparecer a frase 'Bring You Home TV', solte o botão logo em seguida) enquanto liga a TV Box.
+3° Passo - Inserir o cartão micro SD na TV Box H6+. No entanto, para que a mesma inicialize lendo o cartão (APENAS QUANDO FOR LIGAR PELA PRIMEIRA VEZ), é necessário pressionar o botão traseiro (Por cerca de 5s ou até aparecer a frase 'Bring You Home TV', solte o botão logo em seguida) enquanto liga a TV Box.
 
 4° Passo - Efetuar as configurações iniciais do server.
           
