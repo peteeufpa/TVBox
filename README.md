@@ -36,6 +36,7 @@ PARA A INTERFACE GRÁFICA
            
           sudo apt update
           sudo apt ugrade
+          (SE APARECER UMA OPÇÃO TIPO 'DEJESA CONTINUAR [s/n]?', DIGITE 's' E DE ENTER).
           sudo apt install xorg
             cd /etc/X11
             sudo rm xorg.conf
