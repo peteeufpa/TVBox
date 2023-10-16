@@ -55,6 +55,6 @@ PARA A INTERFACE GRÁFICA
           Arquivo u-boot a ser utilizado (arquivo meson-gxl-s905x-p212.dtb) – opção 106.
           Sistema de arquivo a ser utilizado, sugere-se o ext4.
           
-   Após o termino da transferẽncia, execute o seguinte comando:
+   Após o termino da transferência, execute o seguinte comando:
 
           sudo shutdown -h now
