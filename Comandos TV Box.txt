@@ -44,4 +44,6 @@ sudo reboot
 
 sudo flatpak install flathub org.kde.gcompris
 
+#Para instalar o VLC
 
+sudo apt install vlc
