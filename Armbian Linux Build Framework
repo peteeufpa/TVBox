@@ -1,6 +1,14 @@
 INSTRUÇÕES PARA CRIAR UMA IMAGEM UTILIZANDO A FERRAMENTA ARMBIAN LINUX BUILD FRAMEWORK
 
+#PARA INSTALAR A FERRAMENTA
+    
+    apt-get -y install git
+    git clone --depth=1 --branch=main https://github.com/armbian/build
+    cd build
+    ./compile.sh
+
 #PARA QUE A IMAGEM FUNCIONE NA TV BOX, É NECESSÁRIO FAZER ALGUMAS ALTERAÇÕES
+
 Acesse o armbi_boot
 
 Procure pela pasta 'extlinux'
