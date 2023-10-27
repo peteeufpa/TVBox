@@ -10,10 +10,10 @@
 
 4° Passo - Efetuar as configurações iniciais do server:
           
-          Crie a senha de root 'pet'.
+          Crie a senha de root 'petee31415'.
           Para a shell de comando do sistema padrão, escolha a opção 1 (bash).
-          Na criação de usuário, escolha como nome 'pet' e senha 'pet'.
-          Como nome verdadeiro, escolha 'pet' também (COM AS LETRAS MINÚSCULAS!).
+          Na criação de usuário, escolha como nome 'aluno' e senha 'aluno'.
+          Como nome verdadeiro, escolha 'aluno' também (COM AS LETRAS MINÚSCULAS!).
 
           'Conectar via wireless?' - Escolha 'sim' e conecte na internet local.
           'Utilizar a linguagem baseado na sua localização?' - Escolha 'sim' caso a região detectada seja 'America/Belem' e aguarde carregar.
