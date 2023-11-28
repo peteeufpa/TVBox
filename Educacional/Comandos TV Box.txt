@@ -37,6 +37,10 @@ sudo apt-get install jclic
 
 #Para instalar o Gcompris
 
+sudo apt install gcompris
+
+ou (CASO NÃO FUNCIONE)
+
 sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
