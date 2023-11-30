@@ -1,3 +1,7 @@
+LINK PARA BAIXAR A IMAGEM DO DEBIAN 11
+
+https://ufpabr-my.sharepoint.com/:f:/r/personal/andre_carvalho_silva_itec_ufpa_br/Documents/Descaracteriza%C3%A7%C3%A3o%20da%20TV%20Box/Cluster?csf=1&web=1&e=zl8N4x
+
 Para configurar um IP fixo no Debian
 
 sudo nano /etc/netplan/<tecla:tab>
