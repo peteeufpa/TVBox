@@ -58,3 +58,5 @@ PARA A INTERFACE GRÁFICA
    Após o termino da transferência, execute o seguinte comando:
 
           sudo shutdown -h now
+Comando para abrir terminal para a leitura serial
+          sudo gtkterm
