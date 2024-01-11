@@ -26,3 +26,12 @@ sudo make install
 make | tee log.Make
 
 sudo make install | tee log.MakeInstall
+
+
+#COMANDOS PARA PASSAR ARQUIVO
+
+scp -r <caminho/pasta> user@<ip>:<caminho> (DIRETÓRIO)
+scp <caminho/arquivo> user@<ip>:<caminho> (ARQUIVO)
+
+pwd (printa o caminho)
+
