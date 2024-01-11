@@ -1,0 +1,28 @@
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt install git
+
+git clone https://github.com/openpbs/openpbs.git
+
+sudo apt install gcc make libtool libhwloc-dev libx11-dev libxt-dev libedit-dev ncurses-dev perl postgresql-server-dev-all postgresql-contrib python-dev tcl-dev tk-dev swig libexpat-dev libssl-dev libxext-dev libxft-dev autoconf automake git expat libedit2 postgresql python postgresql-contrib sendmail-bin tcl tk libical3 libglew-dev mpich
+
+sudo apt-get install gcc make libtool libhwloc-dev libx11-dev libxt-dev libedit-dev libical-dev ncurses-dev perl postgresql-server-dev-all postgresql-contrib python3-dev tcl-dev tk-dev swig libexpat-dev libssl-dev libxext-dev libxft-dev autoconf automake g++ cmake
+
+sudo apt-get install expat libedit2 postgresql python3 postgresql-contrib sendmail-bin sudo tcl tk libical3
+
+deve instalar manualmente o libical1:
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+
+./compile.sh
+
+./configure -prefix=/opt/pbs
+
+make | tee log.Make
+
+sudo make install | tee log.MakeInstall
