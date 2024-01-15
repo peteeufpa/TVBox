@@ -31,8 +31,8 @@
  
  
 // WIFI
-const char* SSID = "POCO F5"; // SSID / nome da rede WI-FI que deseja se conectar
-const char* PASSWORD = "poco123456"; // Senha da rede WI-FI que deseja se conectar
+const char* SSID = "PET-EE"; // SSID / nome da rede WI-FI que deseja se conectar
+const char* PASSWORD = "pet@31415"; // Senha da rede WI-FI que deseja se conectar
   
 // MQTT
 const char* BROKER_MQTT = "test.mosquitto.org"; //URL do broker MQTT que se deseja utilizar
