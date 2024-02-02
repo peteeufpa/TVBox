@@ -51,3 +51,10 @@ sudo flatpak install flathub org.kde.gcompris
 #Para instalar o VLC
 
 sudo apt install vlc
+
+INSTALAR APLICATIVOS .DEB
+
+sudo dpkg -i nome_do_pacote.deb
+
+#intala as dependências faltantes automaticamente
+sudo apt-get install -f
