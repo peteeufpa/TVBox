@@ -1,0 +1,13 @@
+1. Baixar o Project OutFox na TV Box
+  - Existem outros, porém o OutFox é o único compatível com aarch64, é importante que seja baixado a "Latest Stable Version"
+  - https://projectoutfox.com/
+  - Siga as intruções no site para instalar o jogo (https://outfox.wiki/user-guide/setup/install-linux/).
+
+obs: é provável que algumas das libs necessárias para a execução do jogo não existam na instalação base do OS das TV BOX,
+portanto será necessário, caso esse seja o caso:
+      - rodar "ldd OutFox" abrindo o terminal na pasta do arquivo
+      - caso uma lib ou mais estajam faltando, instalá-la com "sudo apt-get install (insira a lib aqui)" no terminal dentro da pasta do jogo.
+Obs: na TV BOX utilizada, a lib que faltava era a libjack.so.0
+
+2. Rodar o OutFox
+  - No terminal
