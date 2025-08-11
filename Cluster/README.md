@@ -8,7 +8,7 @@
 6. [Configurando a pasta compartilhada](#6configurando-a-pasta-compartilhada)
 7. [Instalando Pacotes](#7instalando-pacotes)
 8. [Instalando o PBS no HeadNode](#8instalando-o-pbs-no-headnode)
-9. [Instalando o PBS nos ComputeNodes](#9instalando-o-pbs-no-computenodes)
+9. [Instalando o PBS nos ComputeNodes](#9instalando-o-pbs-nos-computenodes)
 10. [Criando Filas](#10criando-filas)
 
 ## 1. Instalar o virtual box e criar as VMs (máquinas virtuais)
