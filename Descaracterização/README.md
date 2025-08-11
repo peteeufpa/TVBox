@@ -9,7 +9,7 @@ Esta é uma lista com os modelos de TV BOX em nosso estoque que já foram descar
 
 | TVBOX | Chip | Instalação |
 | :---: | :---: | :---: |
-| MxQPro5g | Allwinner H3 | Link |
+| MxQPRO4k | Allwinner H3 | [Link](https://github.com/peteeufpa/TVBox/tree/main/Descaracteriza%C3%A7%C3%A3o/Allwinner%20H3) |
 | MxqPro | Amlogic ik316 | Link |
 | | Amlogic S905x | Link |
 | | RockChip rk322x | Link |
