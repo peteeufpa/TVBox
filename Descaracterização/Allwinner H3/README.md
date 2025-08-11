@@ -1,23 +1,57 @@
-# ⚡ PET Elétrica UFPA
+# 📦 TV BOX MXQ PRO 4K
 
-Bem-vindo ao repositório oficial do **PET de Engenharia Elétrica da UFPA**! Aqui compartilhamos as atividades, projetos e iniciativas desenvolvidos pelos membros do grupo. Nosso objetivo é contribuir para o desenvolvimento acadêmico e profissional, promovendo o aprendizado colaborativo e a inovação.
-
----
-
-## 🔎 Sobre o projeto
-
-Neste repositório, concentramos nossos esforços na **descaracterização de TV Box** para aplicação em diversas linhas de pesquisa. O objetivo é reutilizar o hardware desses dispositivos para potencializar estudos e soluções em áreas relevantes da engenharia elétrica e de computação.
+</p>
+<p align="center">
+  <img src="https://github.com/delsonlf/TVBoxTestePet/blob/main/Fotos%20e%20imagens/01%20-%20Allwinner%20H3/Hardware/HardwareH3.png?raw=true" alt="Size Limit CLI" width="1500">
+ </p>
 
 ---
 
-## 🎯 Linhas de pesquisa
+## 🔎 Hardware
 
-Atualmente, nossas principais linhas de pesquisa relacionadas a esse projeto incluem:
+|Sumário | Detalhes|
+---------|:--:
+Codename | MXQ PRO 4K
+Fabricante | Allwinner
+Modelo | MXQ PRO
+Placa Mãe | ---
+Placa DTB | ---
+CPU | Allwinner H3
+Família | Cortex-A7
+Velocidade | 480 - 1008 MHz
+GPU | Mali-400 MP2
+Wifi | SV6256P 
+Memória | 1GB
+Armazenamento | 4gb?
+Resolução | 720x1280
+---
 
-- 🖥️[Cluster](Cluster/README.md): aproveitamento de TV Box para construção de clusters de processamento, permitindo executar aplicações distribuídas de forma eficiente e acessível.
+## 📄 Geral
 
-- 🔓[DESCARACTERIZAÇAO](Descaracterização/README.md)
-: processos de desmontagem, análise e adaptação do hardware das TV Box, com foco em documentar etapas, desafios e soluções encontradas.
+<p align="center">
+  <img src="https://github.com/delsonlf/TVBoxTestePet/blob/main/Fotos%20e%20imagens/01%20-%20Allwinner%20H3/Sistema/Geral.png" alt="Size Limit CLI" width="1280">
+</p>
 
-- 📡[Gateway](Gateway/README.md): utilização de TV Box como gateways para Internet das Coisas (IoT), viabilizando experimentos de conectividade e integração de dispositivos.
+## 🔧 SOC
 
+<p align="center">
+  <img src="https://github.com/delsonlf/TVBoxTestePet/blob/main/Fotos%20e%20imagens/01%20-%20Allwinner%20H3/Sistema/SOC.png" alt="Size Limit CLI" width="1280">
+</p>
+
+## 📲 Sistema
+
+<p align="center">
+  <img src="https://github.com/delsonlf/TVBoxTestePet/blob/main/Fotos%20e%20imagens/01%20-%20Allwinner%20H3/Sistema/Sistema.png" alt="Size Limit CLI" width="1280">
+</p>
+
+## 🖥️ Tela
+
+<p align="center">
+  <img src="https://github.com/delsonlf/TVBoxTestePet/blob/main/Fotos%20e%20imagens/01%20-%20Allwinner%20H3/Sistema/Tela.png" alt="Size Limit CLI" width="1280">
+</p>
+
+## 💾 Memória
+
+<p align="center">
+  <img src="https://github.com/delsonlf/TVBoxTestePet/blob/main/Fotos%20e%20imagens/01%20-%20Allwinner%20H3/Sistema/Mem%C3%B3ria.png" alt="Size Limit CLI" width="1280">
+</p>
