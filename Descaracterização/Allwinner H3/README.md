@@ -1,4 +1,4 @@
-# 📦 TV BOX MXQ PRO 4K
+# 📦 TV BOX MXQ PRO 4K (H3)
 
 </p>
 <p align="center">
