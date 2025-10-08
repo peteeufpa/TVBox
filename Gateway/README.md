@@ -89,6 +89,6 @@ mosquitto_pub -h localhost -t "teste/local" -u "seu_usuario" -P "sua_senha" -m "
   ```bash
   hostname -I
   ```
-- **Subscrever:** `teste/local` (definido no `mosquitto_sub`).  
-- **Publicar:** `teste/local` (definido no `mosquitto_pub`).  
+- **Subscrever:** Voce define qual tópico usar em seu esp32 como por exemplo `esp32/leds` Um mesmo broker pode ter vários tópicos diferentes.  
+- **Publicar:** Voce tambem define qual usar na hora de montar seu codigo como `esp32/status`.  
 - **Login:** usuário e senha configurados no passo 4.  
