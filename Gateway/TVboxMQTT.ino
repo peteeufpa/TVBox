@@ -5,7 +5,7 @@
 const char* ssid = "LCADE_CEAMAZON_2.4G";
 const char* password = "pquality";
 
-// --- CONFIGURAÇÕES DO BROKER MQTT (NO LE POTATO) ---
+// --- CONFIGURAÇÕES DO BROKER MQTT (NA TXBOX) ---
 const char* mqtt_server = "192.168.0.165"; 
 const int mqtt_port = 1883;
 const char* mqtt_user = "petee";     // O usuário que você criou
